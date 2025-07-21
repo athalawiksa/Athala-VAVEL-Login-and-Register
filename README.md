@@ -22,7 +22,6 @@
 ### 📝 Register Screen
 <img src="screenshots/register_screen.png" width="300"/>
 
-> Place your screenshots inside the `screenshots/` folder at the root of the project.
 
 ---
 
